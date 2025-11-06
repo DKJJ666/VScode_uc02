@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+
+.header{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.container{
+      margin: 20;
+      padding: 20px;
+      background-color: aliceblue;
+      border-radius: 5px;
+      border: 10px solid #101010      
+
+}
+
