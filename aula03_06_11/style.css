@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    margin: 10px;
+}
+
+.Topo {
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Sub-titulo{
+    text-align: center;
+    
+
+}
+
+.Galeria{
+    text-align: center;
+    border-radius: 10px;
+}
+
+.logomarca {
+    text-align: center;
+}
+
+.Conteudo{
+    text-align: center;
+}
+
+.Txt{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    text-align: center;
+    padding: 16px;
+}
